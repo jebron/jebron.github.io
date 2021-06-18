@@ -1,5 +1,3 @@
-Here you can say lots of fun things about your site.
+Hi there,
 
-Maybe say a some things about yourself.
-
-Or maybe what you plan to blog about.
+I'm a control system specialist with 15 years of experience and a passion for protecting industrial control systems in critical infrastructure. Most recently, I'm on a journey to get my OSCP certification and will be documenting various things here along the way. Feel free to reach out via any social platform, I'm always open to new opportunities and willing to help.
