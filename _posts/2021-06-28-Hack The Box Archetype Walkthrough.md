@@ -144,16 +144,14 @@ Microsoft Windows [Version 10.0.17763.107]
 (c) 2018 Microsoft Corporation. All rights reserved.
 ```
 
-Let's check what account we're current using:
-```C:\Windows\system32>whoami```
-
+Let's check what account we're current using:  
 ```
+C:\Windows\system32>whoami
 nt authority\system
 ```
 
 Boom! Well done! Now we just need to find the root/system flag, it's generally in the Desktop folder for the respective user/system account:  
-```c:\Users\Administrator\Desktop>more root.txt```
-
 ```
+c:\Users\Administrator\Desktop>more root.txt
 b91ccec3305e98240082d4474b848528
 ```
